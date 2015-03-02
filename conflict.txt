@@ -1,1 +1,3 @@
 Conflict Test file
+
+master : modify this file
